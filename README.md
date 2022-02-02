@@ -12,8 +12,11 @@ the design is done using pencil project application.
 The layout of the website is done using "desktop sketchy GUI"
 
 ## OUTPUT:
+HOME
 ![output](./Home.png)
+ABOUTUS
 ![output](./AboutUs.png)
+MODERNIZATION
 ![output](./Modernization.png)
 
 ## Result:
